@@ -1,0 +1,5 @@
+# dsh-archive-restore bundle 层：插入侧边栏归档恢复区插件。
+- insert:
+    - id: dsh-archive-restore
+      name: '@dsh-external/dsh-archive-restore'
+      config: {}
